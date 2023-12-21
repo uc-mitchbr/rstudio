@@ -84,7 +84,7 @@
     "properties-reader": "2.3.0",
     "semver": "7.5.4",
     "uuid": "9.0.1",
-    "vue": "3.3.4",
+    "vue": "3.3.9",
     "winston": "3.10.0",
     "winston-syslog": "2.7.0"
   }
