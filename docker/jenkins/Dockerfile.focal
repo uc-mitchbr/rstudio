@@ -1,5 +1,5 @@
 ARG ARCH=amd64
-FROM --platform=linux/$ARCH ubuntu:focal
+FROM --platform=linux/$ARCH ubuntu:20.04
 ARG ARCH
 
 ENV OPERATING_SYSTEM=ubuntu_focal
